@@ -21,6 +21,7 @@ p,
 ul,
 ol {
 	@include margin(small 0);
+	max-width: none;
 }
 
 blockquote {
